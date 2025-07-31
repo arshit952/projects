@@ -26,5 +26,7 @@ elif num==3 and option_selected=="water":
     print("lost")
 elif num==3 and option_selected=="Gun":
     print("tie")
+else:
+    print("invalid option")
     
     
